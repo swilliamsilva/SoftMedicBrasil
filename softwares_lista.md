@@ -1,0 +1,24 @@
+# Lista de Softwares Médico-Hospitalares Identificados
+
+- IClinic
+- HiDoctor Software Médico
+- Qwaiting
+- Archivex Clinical
+- MEDICALSOFT
+- Philips Tasy
+- SOUL MV Hospitalar
+- Pixeon
+- SisHOSP Core
+- Real Clinic
+- TOTVS (Saúde)
+- Feegow Clinic
+- App Health
+- ClinicWeb
+- Conclínica
+- Datasigh
+- RD Station (Marketing, aplicável à saúde)
+- HubSpot (Marketing, aplicável à saúde)
+- AgendaAí (Agendamento)
+- Calendly (Agendamento geral)
+- Doctoralia (Plataforma/Agendamento)
+- Botdesigner (Chatbot/Agendamento)
