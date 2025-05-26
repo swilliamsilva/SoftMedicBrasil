@@ -33,6 +33,7 @@ const Footer = () => {
         
         <div className="border-t border-blue-800 mt-8 pt-8 text-center text-blue-300 text-sm">
           <p>© 2025 - Análise de Softwares Médico-Hospitalares no Brasil</p>
+          <p>                williamsilva.codigo@gmail.com </p>
         </div>
       </div>
     </footer>
